@@ -1,0 +1,2 @@
+var _jsxFileName="C:\\Users\\aayap\\Documents\\sataiva\\thousand-lights\\src\\Divider\\Divider.tsx";import React from'react';import{View,StyleSheet}from'react-native';var Divider=function Divider(_ref){var style=_ref.style;return React.createElement(View,{style:[styles.divider,style],__source:{fileName:_jsxFileName,lineNumber:9}});};var styles=StyleSheet.create({divider:{backgroundColor:'#bdbdbd',height:StyleSheet.hairlineWidth}});export default Divider;
+//# sourceMappingURL=Divider.js.map

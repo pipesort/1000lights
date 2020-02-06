@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.js"],"names":["SignInForm","SignUpForm"],"mappings":"AAAA,MAAOA,CAAAA,UAAP,KAAuB,yBAAvB,CACA,MAAOC,CAAAA,UAAP,KAAuB,yBAAvB,CAEA,OAAQA,UAAR,CAAoBD,UAApB","sourcesContent":["import SignInForm from './SignInForm/SignInForm';\r\nimport SignUpForm from './SignUpForm/SignUpForm';\r\n\r\nexport {SignUpForm, SignInForm};\r\n"]}

@@ -1,0 +1,45 @@
+{
+  "name": "thousand-lights",
+  "version": "0.0.3",
+  "description": "Thousand lights provides UI Components to make React Native development a breeze.",
+  "main": "dist\\commonjs\\index.js",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "build": "tsc",
+    "prepare": "bob build"
+  },
+  "devDependencies": {
+    "@react-native-community/bob": "^0.8.0",
+    "@types/jest": "^25.1.0",
+    "@types/react-native": "^0.61.7",
+    "jest": "^25.1.0",
+    "metro-react-native-babel-preset": "^0.58.0",
+    "prettier": "^1.19.1",
+    "react": "^16.12.0",
+    "react-docgen": "^5.1.0",
+    "react-native": "^0.61.5",
+    "tslib": "^1.10.0",
+    "typescript": "^3.7.5"
+  },
+  "peerDependencies": {
+    "react": "^16.12.0",
+    "react-native": "^0.61.5"
+  },
+  "react-native": "src\\index.tsx",
+  "module": "dist\\module\\index.js",
+  "types": "dist\\typescript\\src\\index.d.ts",
+  "files": [
+    "src",
+    "dist"
+  ],
+  "@react-native-community/bob": {
+    "source": "src",
+    "output": "dist",
+    "targets": [
+      "commonjs",
+      "module",
+      "typescript"
+    ]
+  }
+}

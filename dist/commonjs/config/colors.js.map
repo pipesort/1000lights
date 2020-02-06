@@ -1,0 +1,1 @@
+{"version":3,"sources":["colors.ts"],"names":["colors","primary","secondary","danger"],"mappings":"gFAAA,GAAMA,CAAAA,MAAM,CAAG,CACbC,OAAO,CAAE,SADI,CAEbC,SAAS,CAAE,SAFE,CAGbC,MAAM,CAAE,SAHK,CAAf,C,aAMeH,M","sourcesContent":["const colors = {\r\n  primary: \"#0000ff\",\r\n  secondary: \"#05ada5\",\r\n  danger: \"#ff0000\"\r\n};\r\n\r\nexport default colors;\r\n"]}

@@ -1,0 +1,2 @@
+var _interopRequireDefault=require("@babel/runtime/helpers/interopRequireDefault");Object.defineProperty(exports,"__esModule",{value:true});Object.defineProperty(exports,"SignInForm",{enumerable:true,get:function get(){return _SignInForm.default;}});Object.defineProperty(exports,"SignUpForm",{enumerable:true,get:function get(){return _SignUpForm.default;}});var _SignInForm=_interopRequireDefault(require("./SignInForm/SignInForm"));var _SignUpForm=_interopRequireDefault(require("./SignUpForm/SignUpForm"));
+//# sourceMappingURL=index.js.map

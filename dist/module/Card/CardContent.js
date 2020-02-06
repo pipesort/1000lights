@@ -1,0 +1,2 @@
+var _jsxFileName="C:\\Users\\aayap\\Documents\\sataiva\\thousand-lights\\src\\Card\\CardContent.tsx";import React from'react';import{View,StyleSheet}from'react-native';var CardContent=function CardContent(_ref){var children=_ref.children,contentWrapperStyle=_ref.contentWrapperStyle;return React.createElement(View,{style:[styles.content,contentWrapperStyle],__source:{fileName:_jsxFileName,lineNumber:13}},children);};var styles=StyleSheet.create({content:{padding:5,marginLeft:14}});export default CardContent;
+//# sourceMappingURL=CardContent.js.map
